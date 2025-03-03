@@ -36,9 +36,6 @@ This project implements a **real-time hand gesture recognition system** using **
    python gesture_recognition.py
    ```
 
-## Demo  
-_A short video/gif showcasing the project in action_  
-
 ## Future Improvements  
 - Add more gestures  
 - Train a deep learning model for better accuracy  
