@@ -1,4 +1,4 @@
-```md
+
 # Real-Time Hand Gesture Recognition using OpenCV & MediaPipe 🍋🤖  
 
 ## Overview  
@@ -44,4 +44,3 @@ This project implements a **real-time hand gesture recognition system** using **
 ## Contribute & Collaborate  
 I’m open to **collaborations & contributions**! Feel free to fork, open an issue, or reach out.  
 
-```
