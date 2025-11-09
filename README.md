@@ -1,5 +1,5 @@
-# Real-Time Hand Gesture Recognition using OpenCV & MediaPipe 🤖 
-```md 
+# Real-Time Hand Gesture Recognition using OpenCV & MediaPipe  
+
 
 ## Overview  
 This project implements a **real-time hand gesture recognition system** using **Python, OpenCV, and MediaPipe**. It detects and classifies hand gestures such as:  
@@ -20,7 +20,7 @@ This project implements a **real-time hand gesture recognition system** using **
 - Python  
 - OpenCV  
 - MediaPipe  
-```
+
 ## Installation  
 1. Clone this repository:  
    ```bash
@@ -43,4 +43,3 @@ This project implements a **real-time hand gesture recognition system** using **
 
 ## Contribute & Collaborate  
 I’m open to **collaborations & contributions**! Feel free to fork, open an issue, or reach out.  
-```
